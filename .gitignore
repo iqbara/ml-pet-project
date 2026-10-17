@@ -1,0 +1,6 @@
+.idea
+.venv
+sandbox
+.env
+/data/
+catboost_info
